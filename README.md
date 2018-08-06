@@ -1,2 +1,1 @@
-# RabbitMq1
-RabbitMq + .NET Cpre - Hello World
+# RabbitMq + .NET Core - Hello World
